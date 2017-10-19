@@ -1,0 +1,1 @@
+/*MIDIjs.play('../resources/demo.mid');*/
